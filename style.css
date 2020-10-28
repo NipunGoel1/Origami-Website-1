@@ -1,0 +1,15 @@
+h1 {
+  background-color: #ed553b;
+}
+.header {
+  display: flex;
+  justify-content: center;
+}
+.items {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+body {
+  background-color: #58a5bd;
+}
